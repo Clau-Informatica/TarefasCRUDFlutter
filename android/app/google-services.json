@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6600162993",
+    "project_id": "projetotarefasudemy-8c7c4",
+    "storage_bucket": "projetotarefasudemy-8c7c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6600162993:android:9d1064b1113f714bb42c90",
+        "android_client_info": {
+          "package_name": "com.example.tarefas_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6600162993-bjtqmkskp9u2acu2efdqhfpkdfljija1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDULDAh1JaUIlb3CFP94eRczq9QUcD8r4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6600162993-bjtqmkskp9u2acu2efdqhfpkdfljija1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
